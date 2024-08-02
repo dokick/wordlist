@@ -7,10 +7,13 @@ Christoph Kolumbus
 Dschingis Khan
 Galileo Galilei
 George Washington
+Heinrich von Kleist
 Immanuel Kant
+Johann Wolfgang von Göthe
 John F. Kennedy
 Joseph Stalin
 Julius Caesar
+Kafka
 Karl Marx
 Karl der Große
 Kleopatra
@@ -20,6 +23,7 @@ Martin Luther King
 Michael Jackson
 Mozart
 Napoleon
+Schiller
 Sigmund Freud
 Sokrates
 Tutanchamun
