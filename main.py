@@ -4,6 +4,7 @@ from typing import List, Optional
 # If you want explicit topics uncomment the topics in the list of files
 wordlist_filenames: Optional[List[str]] = None
 # wordlist_filenames = [
+#     "actors.txt",
 #     "animes.txt",
 #     "asterix.txt",
 #     "athletes.txt",
