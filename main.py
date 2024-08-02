@@ -1,9 +1,7 @@
 from pathlib import Path
 from typing import List, Optional
 
-wordlists_dir = Path().resolve() / "wordlists"
-
-# If you want explicit topics then comment out the next line and uncomment the lists of files you want
+# If you want explicit topics uncomment the topics in the list of files
 wordlist_filenames: Optional[List[str]] = None
 # wordlist_filenames = [
 #     "animes.txt",
@@ -29,6 +27,8 @@ wordlist_filenames: Optional[List[str]] = None
 #     "video_game_characters.txt",
 #     "video_games.txt"
 # ]
+
+wordlists_dir = Path().resolve() / "wordlists"
 
 if wordlist_filenames is not None:
     wordlists = wordlist_filenames
